@@ -35,7 +35,7 @@
 
 /** home - pag principal - text-img**/
 .home {
-    background: url('/img/ruvim-noga-pazM9TQJ2Ck-unsplash\ \(1\).jpg');
+    background: url('http://images.unsplash.com/photo-1529959545196-2f137c0af722?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjI5NTE5OTM1&ixlib=rb-1.2.1&q=80&w=1080');
     background-size: cover;
     height: 100vh;
 }

@@ -99,9 +99,47 @@
 }
 /** pag about me **/
 
+/* pag escritos-services*/
+    /* primer corte*/
+.section_1corte {
+    width: 100%;
+    background-image: linear-gradient(to right top, #46639a, #008ec7, #00b6c1, #00d783, #a8eb12);
+    text-align: center;
+    border-radius: 10px;
+    margin-top: -10px;
+}
+.section_1corte h1 {
+    padding-top: 10px;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 40px;
+}
+.section_1corte button{
+    margin-bottom: 50px;
+    width: 50%;
+    height: 45px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-image: linear-gradient(to left bottom, #50dcdd, #79e3ce, #9ee8c1, #c0ecba, #deefba);
+    border: 2px solid white;
+}
+.section_1corte button:hover {
+    background-image: linear-gradient(to right top, #46639a, #008ec7, #00b6c1, #00d783, #a8eb12);    
+}
+.section_1corte a {
+    font-family: 'Patrick Hand', cursive;
+    font-size: 30px;
+    text-decoration: none;
+}
+.section_1corte a:hover {
+    color:white;
+}
+    /* primer corte*/
+/* pag escritos-services*/
+
+
 /*--------------------------------------------------------*/
-/** pag escritos **/
-/* 1 texto */
+/** pag 1corte **/
+/* 1 texto técnologias, débates, etica y moral*/
 .section-escritos-div {
     width: 100%;
     background-color: rgb(235, 191, 218);
@@ -118,7 +156,7 @@
     text-align: center;
 }
 /* 1 texto */
-/* 2 texto */
+/* 2 texto el casi eterno despertar de lupita*/
 .section2-escritos-div {
     width: 100%;
     background-color: rgb(207, 230, 238);
@@ -159,8 +197,8 @@
     text-align: center;
     font-size: 20px;
 }
-/* 3 texto */ 
-/** termina pag services **/
+/* 3 texto auge tecnologico*/ 
+/** termina 1corte **/
 
 /*-----------------------------------------------------------/
 

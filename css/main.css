@@ -129,11 +129,41 @@
     font-family: 'Patrick Hand', cursive;
     font-size: 30px;
     text-decoration: none;
-}
-.section_1corte a:hover {
-    color:white;
+    color: black;
 }
     /* primer corte*/
+    /* segundo corte*/
+    .section_2corte {
+        width: 100%;
+        background-image: linear-gradient(to left bottom, #eac1e8, #e2b5ea, #d8aaee, #caa0f3, #b797f9);
+        text-align: center;
+        border-radius: 10px;
+        margin-top: -10px;
+    }
+    .section_2corte h1 {
+        padding-top: 10px;
+        font-family: 'Patrick Hand', cursive;
+        font-size: 40px;
+    }
+    .section_2corte button{
+        margin-bottom: 50px;
+        width: 50%;
+        height: 45px;
+        border-radius: 10px;
+        cursor: pointer;
+        background-image: linear-gradient(to left bottom, #e6d6e5, #e0c9e3, #d6bce3, #cab1e4, #bba6e6);
+        border: 2px solid white;
+    }
+    .section_2corte button:hover {
+        background-image: linear-gradient(to left bottom, #eac1e8, #e2b5ea, #d8aaee, #caa0f3, #b797f9);
+    }
+    .section_2corte a {
+        font-family: 'Patrick Hand', cursive;
+        font-size: 30px;
+        text-decoration: none;
+        color: black;
+    }
+
 /* pag escritos-services*/
 
 

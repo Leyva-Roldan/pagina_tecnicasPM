@@ -327,6 +327,10 @@
 .textos_Publicitarios h3, h1, p {
     font-size: 25px;
 }
+.img_texto {
+    border-radius: 10px;
+    width: 60%;
+}
 /*textos publicitarios */
 /* pag 2 corte*/
 

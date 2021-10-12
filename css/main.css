@@ -230,6 +230,90 @@
 /* 3 texto auge tecnologico*/ 
 /** termina 1corte **/
 
+/* pag 2 corte*/
+    /* Titulares */
+.div_15_titularesInter {
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+}
+
+.titulares { 
+    padding: 3%;
+    background-color: #008ec7;
+    border-radius: 30px;
+    margin-bottom: 3%;
+
+}
+.titulares__title {
+    color: white;
+    text-shadow: 1px 2px 2px black;
+    font-size: 28px;
+}
+
+.linkNoticia {
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: black;
+    font-family: 'Patrick Hand', cursive;
+}
+.bodysegundoCorte {
+    background-image: url('../img/triangles-gf1241e8ae_1280.png');
+}
+
+.title-principle {
+    text-shadow: 1px 2px 2px white;
+    font-size: 25px;
+}
+
+.Nacionales {
+    width: 100%;
+    background-color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-bottom: 2%;
+}
+
+.Nacionales p {
+    font-size: 28px;
+}
+
+/* Titulares */
+/* textos cientificos*/
+.textosCientificos {
+    padding: 3%;
+    text-align: justify;
+    background-color: #caa0f3;
+    border-radius: 20px;
+    font-family: 'Patrick Hand', cursive;
+    margin-bottom: 15px;
+}
+.textosCientificos h1, h2 {
+    font-size: 28px;
+}
+.textosCientificos p {
+    font-size: 18px;
+}
+
+.textosDivulgativos {
+    padding: 3%;
+    text-align: justify;
+    background-color: #caa0f3;
+    border-radius: 20px;
+    font-family: 'Patrick Hand', cursive;
+}
+
+.textosDivulgativos h1, h2 {
+    font-size: 28px;
+}
+.textosDivulgativos p {
+    font-size: 18px;
+}
+/* textos cientificos*/
+/* pag 2 corte*/
+
+
 /*-----------------------------------------------------------/
 
 /** pag contact **/

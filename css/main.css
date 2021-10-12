@@ -236,18 +236,16 @@
     text-align: center;
     font-family: 'Patrick Hand', cursive;
 }
-
 .titulares { 
     padding: 3%;
     background-color: #008ec7;
     border-radius: 30px;
     margin-bottom: 3%;
-
 }
 .titulares__title {
     color: white;
-    text-shadow: 1px 2px 2px black;
-    font-size: 28px;
+    text-shadow: 1px 1px 1px black;
+    font-size: 29px;
 }
 
 .linkNoticia {
@@ -263,8 +261,10 @@
 }
 
 .title-principle {
-    text-shadow: 1px 2px 2px white;
-    font-size: 25px;
+    text-shadow: 1px 1px 1px white;
+    font-size: 32px;
+    background-color: white;
+    border-radius: 10px;
 }
 
 .Nacionales {
@@ -292,6 +292,9 @@
 .textosCientificos h1, h2 {
     font-size: 28px;
 }
+.textosCientificos h1 {
+    text-align: center;
+}
 .textosCientificos p {
     font-size: 18px;
 }
@@ -303,14 +306,28 @@
     border-radius: 20px;
     font-family: 'Patrick Hand', cursive;
 }
-
 .textosDivulgativos h1, h2 {
     font-size: 28px;
+}
+.textosDivulgativos h1 {
+    text-align: center;
 }
 .textosDivulgativos p {
     font-size: 18px;
 }
 /* textos cientificos*/
+/*textos publicitarios */
+.textos_Publicitarios {
+    text-align: center;
+    background-color: #79e3ce;
+    padding: 5px;
+    border-radius: 10px;
+    font-family: 'Patrick Hand', cursive;
+}
+.textos_Publicitarios h3, h1, p {
+    font-size: 25px;
+}
+/*textos publicitarios */
 /* pag 2 corte*/
 
 

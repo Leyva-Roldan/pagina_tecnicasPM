@@ -382,7 +382,20 @@
 .tercer-corte-section p {
     text-align: justify;
 }
-
+/* cuarto corte */
+.section-4corte-reportaje {
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+    padding: 15px;
+    border: 1px solid lightcoral;
+    margin-top: 5px;
+}
+.section-4corte-reportaje p {
+    text-align: justify;
+}
+.section-4corte-reportaje img {
+    width: 100%;
+}
 /*-----------------------------------------------------------/
 
 /** pag contact **/

@@ -368,7 +368,19 @@
 }
 /*textos publicitarios */
 /* pag 2 corte*/
-
+/* tercer corte*/ 
+.tercer-corte-section {
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+    background-color: #79e3ce;
+    padding: 15px;
+    border-radius: 10px;
+    line-height: 35px;
+    margin-bottom: 10px;
+}
+.tercer-corte-section p {
+    text-align: justify;
+}
 
 /*-----------------------------------------------------------/
 
